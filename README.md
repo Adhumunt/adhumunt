@@ -1,12 +1,19 @@
-### Welcome! 👋🏽
+# Welcome! 👋🏽
 
-I'm Aditya; an <a href="https://www.nsfgrfp.org/">NSF Graduate Research Fellow</a> and a <a href="https://grad.umn.edu/funding/current-students/doctoral-dissertation-fellowship">DDF Fellow</a> at the University of Minnesota. Currently, I'm working at Wolfram Research developing software for the [QuantumFrameworks](https://www.wolframcloud.com/obj/wolframquantumframework/DeployedResources/Paclet/Wolfram/QuantumFramework/) package to perform numerical and analytical calculations on quantum computers. 
+I'm Aditya; an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a [DDF Fellow](https://grad.umn.edu/funding/current-students/doctoral-dissertation-fellowship) at the University of Minnesota. I work on fun topics in neural networks, quantum information, holography, and black holes. Currently, I'm working at Wolfram Research developing software for the [QuantumFrameworks](https://www.wolframcloud.com/obj/wolframquantumframework/DeployedResources/Paclet/Wolfram/QuantumFramework/) package to perform numerical and analytical calculations on quantum computers. 
 
-Previously, I completed  <a href="https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html">Part III</a> of the Mathematical Tripos at the University of Cambridge during 2016-2017. 
 
-Before starting my Ph.D, I was a vistor at the <a href="https://perimeterinstitute.ca/">Perimeter Institute for Theoretical Physics</a> in the <a href="https://nafshordi.com/">Afshordi</a> group from 2017-2018.
 
-My publications can be found <a href="https://inspirehep.net/authors/1669979">here</a>. My prior and current research interests are [here](https://www.dhuality.com/research/).
+<div align="center">
+  <p>
+    <a href="https://www.dhuality.com/">Personal Website</a> • 
+    <a href="https://inspirehep.net/authors/1669979">Publications</a> • 
+    <a href="https://www.dhuality.com/research/">Research Interests</a> • 
+    <a href="https://www.dhuality.com/about/">Bio</a> 
+  </p>
+</div>
+
+
 
 - 🔭 I’m currently working on **making a Wordle bot.**
 - 🌱 I’m currently learning about **quantum computing, finance, and programming.**
