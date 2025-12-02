@@ -1,6 +1,6 @@
 # Welcome! 👋🏽
 
-I'm Aditya; a quantum computing postdoc at Sandia National Laboratory. 
+I'm Aditya; a quantum computing postdoc at Sandia National Labs. 
 
 I was formerly an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a [DDF Fellow](https://grad.umn.edu/funding/current-students/doctoral-dissertation-fellowship) at the University of Minnesota. I work on fun topics in neural networks, quantum information, holography, and black holes. A while back I helped develop software for the Wolfram [QuantumFrameworks](https://www.wolframcloud.com/obj/wolframquantumframework/DeployedResources/Paclet/Wolfram/QuantumFramework/) package to perform numerical and analytical calculations on quantum computers. 
 
@@ -21,3 +21,5 @@ I was formerly an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a
 - 💬 Ask me about **high energy physics! (Or anything else really, don't be shy!)**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aditya-dhumuntarao/)
 - ⚡ Fun facts: I climb mountains, blog, and execute game glitches in PKMN Yellow!
+
+Views are my own!
